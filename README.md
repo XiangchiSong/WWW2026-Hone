@@ -13,7 +13,7 @@ Currently, only part of the code and the complete server training records are pu
 Please refer to *Training Records.zip* to get all the server records and raw test results of the experiments conducted in the paper. The results are given in *.pkl* format according to the experiment type.
 
 ### Theoretical Analysis
-For the theoretical analysis and mathematical derivation of this paper, please refer to *theoreticalAnalysis.pdf*. Specifically, it is the theoretical analysis and formula derivation of the theoretical list in Appendix D.
+For the theoretical analysis and mathematical derivation of this paper, please refer to *theoreticalAnalysis.pdf*. Specifically, it is the theoretical analysis and formula derivation of the theoretical guarantee list in Appendix D.
 
 ### Figure
 Please refer to the *Figure* folder to obtain all the experimental result figures used in this paper.
