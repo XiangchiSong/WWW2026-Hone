@@ -1,5 +1,5 @@
 # [WWW 2026] Hone: Hedonic Coalition–Based Client Sampling and Multi-Granularity Aggregation for Efficient Federated Learning
-This is the WWW 2026 *Hone: Hedonic Coalition–Based Client Sampling and Multi-Granularity Aggregation for Efficient Federated Learning* GitHub library.
+This is the WWW 2026 *Hone: Hedonic Coalition–Based Client Sampling and Multi-Granularity Aggregation for Efficient Federated Learning* GitHub repository.
 
 ## System Code and Training Records
 Currently, only part of the code and the complete server training records are publicly available to prove the authenticity and reproducibility of the project. The complete code, including the core parts, will be made public after the paper is published.
